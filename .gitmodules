@@ -1,4 +1,0 @@
-[submodule "egarcia-protektnet/bi_customer_limit"]
-	path = egarcia-protektnet/bi_customer_limit
-	url = git@github.com:egarcia-protektnet/bi_customer_limit.git
-	branch = master
